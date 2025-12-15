@@ -24,7 +24,7 @@
 
 <h2 style="font-family: serif;">🛡️ I. The Art of Offense & Defense</h2>
 
-<img src="PLACEHOLDER_LINK_GAMBAR_1" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity Visual Placeholder"/>
+<img src="https://i.pinimg.com/originals/e6/22/30/e622301da6209972fd0b431a67449e51.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity GIF"/>
 
 <br/><br/>
 
@@ -50,7 +50,7 @@
 
 <h2 style="font-family: serif;">🏗️ II. Architecture & Aesthetics</h2>
 
-<img src="PLACEHOLDER_LINK_GAMBAR_2" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Visual Placeholder"/>
+<img src="https://i.pinimg.com/originals/9e/9e/6d/9e9e6d61708a87967924510892721664.jpg" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Setup"/>
 
 <br/><br/>
 
@@ -71,14 +71,14 @@
 
 <h3 align="center" style="font-family: serif;">📊 Language Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dark&hide=c" alt="Top Languages" />
 </div>
 <br/><br/>
 
 
 <h2 style="font-family: serif;">🎹 III. The Rhythm of Silence</h2>
 
-<img src="PLACEHOLDER_LINK_GAMBAR_3" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Visual Placeholder"/>
+<img src="https://i.pinimg.com/originals/68/86/53/68865370905025020378507953790240.jpg" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Conductor"/>
 
 <br/><br/>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
   <p style="font-size: 0.8em; color: gray;">
-    Crafted with ❤️ and Logic by<b>Fery Iris</b><br/>
+    Crafted with ❤️ and Logic by <b>Fery Iris</b><br/>
     2025
   </p>
 </div>
