@@ -1,83 +1,99 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/1c/17/36/1c1736190db998ba57c2c9545dc67e5a.gif" width="100%" style="border-radius: 12px; border: 1px solid #30363d;"/>
-
-<br/><br/>
-
-<h1 style="font-family: serif;">🎹 Orchestrating Code & Security</h1>
-
-<p>
-  <b>Penetration Tester | Fullstack Developer | Classical Music Enthusiast</b>
-</p>
-
-<p width="80%">
-  <i>"I treat code like a musical composition. As a <b>Developer</b>, I build the symphony. As a <b>Penetration Tester</b>, I listen for the discordant notes—the vulnerabilities—to ensure the harmony remains unbroken."</i>
+<h1 style="font-family: 'Garamond', serif; font-size: 3em;">Fery Iris.</h1>
+<p style="font-size: 1.2em;">
+  <b>Cybersecurity Researcher | Fullstack Developer | Classical Soul</b>
 </p>
 
 <p>
   <a href="https://feryportofolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/fery-arya-hidayat-0a2399357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:feryaryat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-feryaryat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/fery_aryat" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@fery__aryat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
+<br/>
+
+<h2 style="font-family: serif;">🛡️ I. The Art of Offense & Defense</h2>
+
+<img src="PLACEHOLDER_LINK_GAMBAR_1" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity Visual Placeholder"/>
+
+<br/><br/>
+
+<p align="left">
+  <i>"Cybersecurity is not merely about technology; it is the modern warfare of logic. It is the art of walking through walls that others believe are solid."</i>
+</p>
+
+<p align="left">
+  Sebagai seorang <b>Penetration Tester</b>, saya memposisikan diri di antara cahaya dan kegelapan. Saya mempelajari cara berpikir penyerang bukan untuk menghancurkan, tetapi untuk melindungi. Setiap celah (vulnerability) yang saya temukan adalah sebuah cerita tentang sistem yang perlu diperbaiki, sebuah teka-teki logika yang harus dipecahkan sebelum dimanfaatkan oleh pihak yang salah.
+</p>
+
+<p align="center"><b>⚔️ The Arsenal:</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=wireshark,metasploit" height="40" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Burp_Suite-Professional-orange?style=flat-square&logo=burpsuite" />
+  <img src="https://img.shields.io/badge/Nmap-Network_Mapper-blue?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/Hydra-Brute_Force-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-Password_Cracking-black?style=flat-square" />
 </div>
 
-<hr style="border-top: 1px solid #30363d;">
+<br/><br/>
 
-<h3 align="center">🎻 The Virtuoso's Toolkit</h3>
+<h2 style="font-family: serif;">🏗️ II. Architecture & Aesthetics</h2>
 
-<table>
-  <tr>
-    <th width="50%">🕵️‍♂️ The Inspector (Security & Ops)</th>
-    <th width="50%">🏗️ The Composer (Fullstack Dev)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=kali,linux,python,bash" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=wireshark,burpsuite,nmap,metasploit" alt="(Note: Icon generic untuk tools hacking)"/><br/>
-      </div>
-      <p align="center">
-        <i>Vulnerability Assessment, Penetration Testing, Network Analysis.</i>
-      </p>
-    </td>
-    <td valign="top">
-      <br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" /><br/>
-      </div>
-      <p align="center">
-        <i>Modern Web Architecture, REST APIs, Database Management.</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="PLACEHOLDER_LINK_GAMBAR_2" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Visual Placeholder"/>
+
+<br/><br/>
+
+<p align="left">
+  <i>"Code is poetry written in a language that machines understand, but humans must feel."</i>
+</p>
+
+<p align="left">
+  Dalam pengembangan perangkat lunak, saya percaya pada keseimbangan. <b>Backend</b> adalah tulang punggung—struktur kokoh, logika yang efisien, dan keamanan data yang tak tertembus. Sementara <b>Frontend</b> adalah jiwa—tampilan visual yang memanjakan mata dan memberikan pengalaman pengguna yang intuitif. Menggabungkan keduanya adalah tentang menciptakan ekosistem digital yang hidup.
+</p>
+
+<p align="center"><b>🛠️ The Tech Stack:</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" height="40"/>
+</div>
+
+<br/><br/>
+
+<h2 style="font-family: serif;">🎹 III. The Rhythm of Silence</h2>
+
+<img src="PLACEHOLDER_LINK_GAMBAR_3" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Visual Placeholder"/>
+
+<br/><br/>
+
+<p align="left">
+  <i>"Classical music makes my heart calm. In the chaotic noise of binary codes and server logs, the symphony brings order."</i>
+</p>
+
+<p align="left">
+  Di balik layar hitam terminal, ada manusia yang mencari ketenangan. Musik klasik bukan sekadar hobi, melainkan metronom bagi produktivitas saya. Ia mengajarkan tentang presisi, dinamika, dan harmoni—hal yang sama yang saya terapkan saat menulis baris kode maupun saat menganalisis keamanan jaringan.
+</p>
 
 <br/>
 
-<h3 align="center">📊 The Performance Log</h3>
+<hr/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fery-Iris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages" />
+  <p style="font-size: 0.8em; color: gray;">
+    Crafted with ❤️ and Logic by <b>Fery Iris</b><br/>
+    2025
+  </p>
 </div>
 
-<br/>
-
-<div align="center">
- <img src="https://i.pinimg.com/originals/e8/35/9c/e8359c29809cb57b98d251d1e4573a6a.gif" width="100%" style="border-radius: 12px; opacity: 0.8;"/>
- 
- <br/><br/>
- <h3><i>"Precision in code, Rhythm in logic."</i></h3>
- <p>Designed by Fery Iris</p>
 </div>
