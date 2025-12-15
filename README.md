@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://i.pinimg.com/736x/34/bf/9d/34bf9d00d944be465ebd83e744ce8016.jpg" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Header Visual"/>
+<img src="https://i.pinimg.com/736x/34/bf/9d/34bf9d00d944be465ebd83e744ce8016.jpg" width="50%" style="border-radius: 10px; border: 1px solid #333;" alt="Header Visual"/>
 <br/><br/>
 
 <h2 style="font-family: serif;">🛡️ I. The Art of Offense & Defense</h2>
@@ -74,7 +74,7 @@
 
 <h3 align="center" style="font-family: serif;">📊 Language Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" width="50%" />
 </div>
 <br/><br/>
 
