@@ -38,13 +38,12 @@
 
 <p align="center"><b>⚔️ The Arsenal:</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash" height="40" />
-  <img src="https://skillicons.dev/icons?i=wireshark,metasploit" height="40" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,wireshark,metasploit" height="40" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Burp_Suite-Professional-orange?style=flat-square&logo=burpsuite" />
-  <img src="https://img.shields.io/badge/Nmap-Network_Mapper-blue?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/Hydra-Brute_Force-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-Password_Cracking-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Mapper-0D2C54?style=for-the-badge&logo=nmap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-FF0000?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-Cracking-000000?style=for-the-badge" height="30"/>
 </div>
 
 <br/><br/>
@@ -65,11 +64,17 @@
 
 <p align="center"><b>🛠️ The Tech Stack:</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,prisma,postgres" height="40"/>
 </div>
 
+<br/>
+
+<h3 align="center" style="font-family: serif;">📊 Language Statistics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" />
+</div>
 <br/><br/>
+
 
 <h2 style="font-family: serif;">🎹 III. The Rhythm of Silence</h2>
 
@@ -91,7 +96,7 @@
 
 <div align="center">
   <p style="font-size: 0.8em; color: gray;">
-    Crafted with ❤️ and Logic by <b>Fery Iris</b><br/>
+    Crafted with ❤️ and Logic by<b>Fery Iris</b><br/>
     2025
   </p>
 </div>
