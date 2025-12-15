@@ -24,7 +24,7 @@
 
 <h2 style="font-family: serif;">🛡️ I. The Art of Offense & Defense</h2>
 
-<img src="https://i.pinimg.com/originals/e6/22/30/e622301da6209972fd0b431a67449e51.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity GIF"/>
+<img src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity Visual"/>
 
 <br/><br/>
 
@@ -50,7 +50,7 @@
 
 <h2 style="font-family: serif;">🏗️ II. Architecture & Aesthetics</h2>
 
-<img src="https://i.pinimg.com/originals/9e/9e/6d/9e9e6d61708a87967924510892721664.jpg" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Setup"/>
+<img src="https://i.pinimg.com/originals/6d/cf/d3/6dcfd322d7498d98838be48c15d4cf9c.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Visual"/>
 
 <br/><br/>
 
@@ -78,7 +78,7 @@
 
 <h2 style="font-family: serif;">🎹 III. The Rhythm of Silence</h2>
 
-<img src="https://i.pinimg.com/originals/68/86/53/68865370905025020378507953790240.jpg" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Conductor"/>
+<img src="https://i.pinimg.com/originals/71/9c/45/719c4553c241d582735847314b53f0f5.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Visual"/>
 
 <br/><br/>
 
