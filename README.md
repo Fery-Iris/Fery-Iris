@@ -71,7 +71,7 @@
 
 <h3 align="center" style="font-family: serif;">📊 Language Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dark&hide=c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" />
 </div>
 <br/><br/>
 
