@@ -22,71 +22,74 @@
 
 <br/>
 
+<img src="https://i.pinimg.com/736x/34/bf/9d/34bf9d00d944be465ebd83e744ce8016.jpg" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Header Visual"/>
+<br/><br/>
+
 <h2 style="font-family: serif;">🛡️ I. The Art of Offense & Defense</h2>
 
-<img src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity Visual"/>
+<img src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity Visual"/>
 
 <br/><br/>
 
-<p align="left">
+<p align="left" style="width: 90%; margin: auto;">
   <i>"Cybersecurity is not merely about technology; it is the modern warfare of logic. It is the art of walking through walls that others believe are solid."</i>
 </p>
 
-<p align="left">
+<p align="left" style="width: 90%; margin: auto;">
   Sebagai seorang <b>Penetration Tester</b>, saya memposisikan diri di antara cahaya dan kegelapan. Saya mempelajari cara berpikir penyerang bukan untuk menghancurkan, tetapi untuk melindungi. Setiap celah (vulnerability) yang saya temukan adalah sebuah cerita tentang sistem yang perlu diperbaiki, sebuah teka-teki logika yang harus dipecahkan sebelum dimanfaatkan oleh pihak yang salah.
 </p>
 
 <p align="center"><b>⚔️ The Arsenal:</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,wireshark,metasploit" height="40" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,wireshark,metasploit" height="32" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Nmap-Network%20Mapper-0D2C54?style=for-the-badge&logo=nmap&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-FF0000?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-Cracking-000000?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Mapper-0D2C54?style=for-the-badge&logo=nmap&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-FF0000?style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-Cracking-000000?style=for-the-badge" height="25"/>
 </div>
 
 <br/><br/>
 
 <h2 style="font-family: serif;">🏗️ II. Architecture & Aesthetics</h2>
 
-<img src="https://i.pinimg.com/originals/6d/cf/d3/6dcfd322d7498d98838be48c15d4cf9c.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Visual"/>
+<img src="https://i.pinimg.com/originals/6d/cf/d3/6dcfd322d7498d98838be48c15d4cf9c.gif" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Development Visual"/>
 
 <br/><br/>
 
-<p align="left">
+<p align="left" style="width: 90%; margin: auto;">
   <i>"Code is poetry written in a language that machines understand, but humans must feel."</i>
 </p>
 
-<p align="left">
+<p align="left" style="width: 90%; margin: auto;">
   Dalam pengembangan perangkat lunak, saya percaya pada keseimbangan. <b>Backend</b> adalah tulang punggung—struktur kokoh, logika yang efisien, dan keamanan data yang tak tertembus. Sementara <b>Frontend</b> adalah jiwa—tampilan visual yang memanjakan mata dan memberikan pengalaman pengguna yang intuitif. Menggabungkan keduanya adalah tentang menciptakan ekosistem digital yang hidup.
 </p>
 
 <p align="center"><b>🛠️ The Tech Stack:</b></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,prisma,postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,prisma,postgres" height="32"/>
 </div>
 
 <br/>
 
 <h3 align="center" style="font-family: serif;">📊 Language Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fery-Iris&layout=compact&theme=dark&hide=c" alt="Top Languages" width="85%" />
 </div>
 <br/><br/>
 
 
 <h2 style="font-family: serif;">🎹 III. The Rhythm of Silence</h2>
 
-<img src="https://i.pinimg.com/originals/71/9c/45/719c4553c241d582735847314b53f0f5.gif" width="100%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Visual"/>
+<img src="https://i.pinimg.com/originals/71/9c/45/719c4553c241d582735847314b53f0f5.gif" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Music Visual"/>
 
 <br/><br/>
 
-<p align="left">
+<p align="left" style="width: 90%; margin: auto;">
   <i>"Classical music makes my heart calm. In the chaotic noise of binary codes and server logs, the symphony brings order."</i>
 </p>
 
-<p align="left">
+<p align="left" style="width: 90%; margin: auto;">
   Di balik layar hitam terminal, ada manusia yang mencari ketenangan. Musik klasik bukan sekadar hobi, melainkan metronom bagi produktivitas saya. Ia mengajarkan tentang presisi, dinamika, dan harmoni—hal yang sama yang saya terapkan saat menulis baris kode maupun saat menganalisis keamanan jaringan.
 </p>
 
