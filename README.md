@@ -1,8 +1,10 @@
 <div align="center">
-
-<h1 style="font-family: 'Garamond', serif; font-size: 3em;">Fery Iris.</h1>
+<img src="https://i.pinimg.com/736x/34/bf/9d/34bf9d00d944be465ebd83e744ce8016.jpg" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Header Visual"/>
+<br/><br/>
+  
+<h1 style="font-family: 'Garamond', serif; font-size: 3em;">Fery Arya Hidayat.</h1>
 <p style="font-size: 1.2em;">
-  <b>Cybersecurity Researcher | Fullstack Developer | Classical Soul</b>
+  <b>Penetration Tester | Fullstack Developer | Classical Soul</b>
 </p>
 
 <p>
@@ -22,14 +24,10 @@
 
 <br/>
 
-<img src="https://i.pinimg.com/736x/34/bf/9d/34bf9d00d944be465ebd83e744ce8016.jpg" width="50%" style="border-radius: 10px; border: 1px solid #333;" alt="Header Visual"/>
-<br/><br/>
-
 <h2 style="font-family: serif;">🛡️ I. The Art of Offense & Defense</h2>
 
 <img src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="85%" style="border-radius: 10px; border: 1px solid #333;" alt="Cybersecurity Visual"/>
 
-<br/><br/>
 
 <p align="left" style="width: 90%; margin: auto;">
   <i>"Cybersecurity is not merely about technology; it is the modern warfare of logic. It is the art of walking through walls that others believe are solid."</i>
@@ -99,7 +97,7 @@
 
 <div align="center">
   <p style="font-size: 0.8em; color: gray;">
-    Crafted with ❤️ and Logic by <b>Fery Iris</b><br/>
+    Crafted with ❤️ and Logic by <b>Fery Arya Hidayat</b><br/>
     2025
   </p>
 </div>
