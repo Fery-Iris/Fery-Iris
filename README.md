@@ -7,10 +7,12 @@
   <b>Penetration Tester | Fullstack Developer | Classical Soul</b>
 </p>
 
+<br>
+<a href="https://feryportofolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✨_Portfolio-Click_to_Visit_Site!-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
+</a>
+<br/><br/>
 <p>
-  <a href="https://feryportofolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/fery-arya-hidayat-0a2399357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
