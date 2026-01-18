@@ -100,7 +100,7 @@
 <div align="center">
   <p style="font-size: 0.8em; color: gray;">
     Crafted with ❤️ and Logic by <b>Fery Arya Hidayat</b><br/>
-    2025
+    2026
   </p>
 </div>
 
